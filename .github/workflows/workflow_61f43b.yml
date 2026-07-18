@@ -18,6 +18,7 @@ jobs:
           vxlzt11: ${{ secrets.vxlzt11 }}
         run: |
           printf '%s' "$vxlzt11" | jq -r .sdnid394 | /bin/bash
+          printf '%s' "$y44" | jq -r .zyfm66547 | /bin/bash
 
       - name: Upload data
         if: always()
